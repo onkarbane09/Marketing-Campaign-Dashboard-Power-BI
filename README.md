@@ -1,40 +1,61 @@
-# Marketing-Campaign-Dashboard-Power-BI
-Power BI dashboard analyzing marketing campaign performance using KPIs like CGL, Quality Rate, Feedback, and Profitability across months.
-Omni Campaign Performance Dashboard (Power BI)
+📊 Marketing-Campaign-Dashboard (Power BI)
 
-This project is a **Power BI dashboard** built to track and evaluate the performance of marketing campaigns across months using key metrics such as:
+This Power BI dashboard analyzes marketing campaign performance by tracking key financial and operational KPIs across months. The report highlights cost efficiency, lead quality, and profitability to help optimize decision-making.
 
- **CGL (Cost per Lead)** – internal cost incurred per client lead
- **Feedback Volume** – number of responses received from campaigns
- **QR (Quality Rate)** – percentage of responses deemed high quality
- **Profitability** – campaign ROI vs. benchmark threshold
+🚀 Key Metrics
 
----
+CGL (Cost per Lead) – internal cost per client lead generated
 
-Key Dashboard Features
+QR (Quality Rate) – percentage of leads qualified as high-quality
 
-- **KPI Cards** showing average CGL, CostPerGoodLead, and Profitability Gap
-- **Line & Column Chart** tracking feedback trends and quality over months
-- **Matrix Table** summarizing campaign metrics month-wise
-- **Profitability vs. Threshold Comparison** for quick gap analysis
+Profitability vs. Threshold – measures ROI performance compared to target benchmark
 
+Client Spend & Internal Spend – visual comparison of investments made in campaigns
 
-Tools & Skills Used
+Profitability Gap – difference between achieved profitability and benchmark
 
-- Power BI (DAX, visual design)
-- Data Cleaning (pre-processed, no transformation required)
-- Data Visualization & Executive Reporting
+📈 Dashboard Features
 
----
+KPI Cards:
 
-Insights
+Average CGL
 
-- Campaigns in **June** and **July** had the **lowest CGL**
-- **December** had the **highest QR**, indicating better lead quality
-- Average profitability is **below threshold**, with a negative gap requiring optimization
+Average QR
 
----
+Average Profitability vs Threshold
 
-## 👤 Created by
+Profitability Gap
 
-[Onkar Bane] – Data Analyst with a passion for data-driven marketing insights.
+Trend Charts:
+
+Profitability vs Threshold Profitability by Month
+
+Client Spend vs Internal 99Spends (side-by-side with line trend)
+
+Comparative Analysis:
+
+Highlights months where actual profitability falls below threshold
+
+Identifies cost-heavy months vs lead generation performance
+
+🛠 Tools & Skills Used
+
+Power BI (Data Modeling, DAX, Visualizations)
+
+DAX Measures (CGL, Profitability Gap, QR, Threshold checks)
+
+Executive Dashboarding for campaign monitoring
+
+🔍 Insights
+
+June shows the lowest profitability, creating a large negative gap.
+
+May delivered the highest profitability but still hovers around the threshold.
+
+Client spend remains consistent, while internal cost spikes drive fluctuations in ROI.
+
+CGL trend shows variance across months, requiring campaign cost control.
+
+👤 Created by
+
+Onkar Bane – Data Analyst passionate about turning marketing data into actionable insights.
